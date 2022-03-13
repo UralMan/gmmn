@@ -1,4 +1,4 @@
-#Generative Moment Matching Networks (GMMNs)
+# Generative Moment Matching Networks (GMMNs)
 This is the code we used for the following paper:
 * Yujia Li, Kevin Swersky, Richard Zemel.  *Generative moment matching networks*.  In International Conference on Machine Learning (ICML), 2015.
 
